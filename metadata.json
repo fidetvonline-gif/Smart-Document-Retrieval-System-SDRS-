@@ -1,0 +1,6 @@
+{
+  "name": "Smart Document Retrieval System (SDRS)",
+  "description": "Smart Document Retrieval System for Federal Polytechnic Ukana School of Applied Science Admin Office",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
